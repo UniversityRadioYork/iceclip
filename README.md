@@ -9,7 +9,7 @@ Clone the project
   ```
 Install the requirements
   ```
-  pip install -r requirements. txt 
+  pip install -r requirements.txt 
   ```
 Run
   ```
